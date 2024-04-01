@@ -1,7 +1,0 @@
-Hola, estas son las instrucciones para poder correr el código:
-
-1. Descomprimir el archivo .zip
-2. Tener instalado python y pip.
-3. Instalar pytest a través de pip.
-4. Abrir una terminal de comandos, ubicarse dentro del directorio del archivo descomprimido.
-5. Escribir el comando pytest test_is_prime.py
