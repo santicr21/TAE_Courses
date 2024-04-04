@@ -5,9 +5,3 @@ def is_prime(n):
             return False
         i += 1
     return True
-    
-
-def main():
-    print(is_prime(11))
-
-main()
